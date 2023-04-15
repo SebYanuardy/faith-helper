@@ -1,0 +1,13 @@
+Things To Do:
+
+1. Make a Main Menu Interface that Will track or display a bar right now that will be able to track current amount of time used for certain things maybe 
+like example: checking how much time you worked out today or checking how much time you worked on your mental health by reading or reflecting 
+2. Be able to track the forest or whatever I end up settling on.
+3. Place to track Progress and be able to look back at any time 
+
+I think that the overall point of this should be for people to have FUN on the app maybe asking them a random question everyday or collecting information on what 
+type of music they are listening to, what is on their mind that day so at the end of the year, they would be able to look back on it and reflect on the year
+that they have and maybe have like a little spotify wrapped.
+
+Also another idea could be the concept of taking a picture and a little summary and then it goes straight into the time box and is opened at the end of the year 
+and can be saved ? To see how far you came.
